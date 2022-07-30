@@ -23,6 +23,7 @@ Project 1
 
 -> **__Guide__ for Users/Guests:
 
+- For the code reference, view from 'Java Code' folder.
 - 'Main' function resides in the class 'MainClass.java'. You need to run this class.
 - MySQL Connector, version: 8.0.29, has been added to 'Libraries and Connector' folder. Do configure the build path 
 this MySQL connector before running the code.
