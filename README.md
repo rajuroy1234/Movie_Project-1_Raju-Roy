@@ -25,7 +25,7 @@ Project 1 <br/>**
 -> ****__Guide__ for Users/Guests (important):
 
 - For the code reference, view from **'Java Code'** folder.
-- **'Main'** function resides in the class **'MainClass.java'**. **You need to run this class**.
+- **'Main'** function resides in the class **'MainClass.java'**.
 - There is **no** requirement for either database or table creation, the code **automatically** generates the database or tables **once**, during the initial run of the code. So no sql code has been added.
 - MySQL Connector, version: **8.0.29**, has been added. Do configure the build path 
 this MySQL connector before running the code or else will show driver error.
